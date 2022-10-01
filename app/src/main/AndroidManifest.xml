@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.thebookbank">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TheBookBank">
+        <activity android:name=".ViewDeliveryStates"/>
+
+        <activity android:name=".Rating" >
+
+        </activity>
+        <activity android:name=".DeliveryStates" >
+
+        </activity>
+        <activity android:name=".AddtoDelivery" >
+
+        </activity>
+        <activity android:name=".Admin_Del" >
+
+        </activity>
+        <activity android:name=".UserHHome" >
+        </activity>
+        <activity android:name=".AdminHome" >
+
+        </activity>
+        <activity android:name=".MainHome">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Profile_view">
+
+    </activity>
+        <activity android:name=".adminReg" >
+
+</activity>
+        <activity android:name=".adminLog" >
+
+        </activity>
+        <activity android:name=".infoact" >
+
+        </activity>
+        <activity android:name=".BookActivity" >
+
+    </activity>
+        <activity android:name=".LoginActivity" >
+
+        </activity>
+        <activity android:name=".UserReg" >
+
+        </activity>
+        <activity android:name=".PaymentHandling" >
+
+        </activity>
+        <activity android:name=".Verification" >
+
+        </activity>
+        <activity android:name=".EnterOrderID" >
+
+        </activity>
+        <activity android:name=".CardDetails" >
+
+        </activity>
+        <activity android:name=".ThankYou" >
+
+        </activity>
+        <activity android:name=".EnterMemberID" >
+
+        </activity>
+        <activity android:name=".PaymentMethod" >
+
+        </activity>
+        <activity android:name=".PaymentDetails" >
+
+        </activity>
+        <activity android:name=".Feedback" >
+
+        </activity>
+        <activity android:name=".AboutUs" >
+
+        </activity>
+        <activity android:name=".requested_book_list" >
+
+        </activity>
+        <activity android:name=".SummaryActivity">
+
+
+        </activity>
+
+        <activity android:name=".Book_info" >
+
+        </activity>
+        <activity android:name=".request_book" >
+
+        </activity>
+        <activity android:name=".MainActivity" >
+
+        </activity>
+
+        <provider
+            android:name=".OrderProvider"
+            android:authorities="com.example.thebookbank"
+            android:exported="true" />
+    </application>
+
+</manifest>

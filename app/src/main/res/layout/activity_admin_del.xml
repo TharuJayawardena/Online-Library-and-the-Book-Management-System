@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".Admin_Del">
+
+    <ImageView
+        android:id="@+id/Bimage"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="43dp"
+        android:layout_marginEnd="131dp"
+        android:layout_marginRight="131dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/prof" />
+
+    <TextView
+        android:id="@+id/Uname"
+        android:layout_width="132dp"
+        android:layout_height="41dp"
+        android:layout_below="@+id/Bimage"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="140dp"
+        android:text="Username"
+        android:textColor="#000080"
+        android:textSize="16sp"
+        android:textStyle="normal|bold"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="140dp" />
+
+    <EditText
+        android:id="@+id/profUsername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Uname"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="101dp"
+        android:layout_marginTop="22dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginBottom="513dp"
+        android:ems="10"
+        android:hint="Enter User name"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="101dp"
+        android:layout_marginRight="100dp" />
+
+    <Button
+        android:id="@+id/btndelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="130dp"
+        android:layout_marginRight="130dp"
+        android:layout_marginBottom="266dp"
+        android:text="Delete Profile"
+        app:backgroundTint="#000080" />
+
+</RelativeLayout>

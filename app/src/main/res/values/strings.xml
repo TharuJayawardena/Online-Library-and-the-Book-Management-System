@@ -1,0 +1,117 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">The Book Bank</string>
+
+    <string name="harry">Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter,
+        and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. </string>
+
+    <string name="kite">The Kite Runner is the first novel by Afghan-American author Khaled Hosseini.[1] Published in 2003 by Riverhead Books, it tells the story of Amir,
+        a young boy from the Wazir Akbar Khan district of Kabul.</string>
+
+    <string name="amma">Amma is not a book written just about his mother. Among the story is the story of the author who moved to Colombo and from a rural village in Haputhale. The book is written in a different format. Such books are limited in modern Sinhala literature. I recommend reading this book to young people as a motivational story. The book is more than four hundred pages long,
+        but reading it was very interesting.</string>
+
+    <string name="gam">Gamperaliya (The Transformation of a Village) is a novel written by Sri Lankan writer Martin Wickremasinghe and first published in 1944. ... Gamperaliya is considered to be one of Wickremasinghe.</string>
+
+
+    <string name="madol">Madol Doova is a childrens novel story written by Sri Lankan writer Martin Wickramasinghe and its first published in 1947. The name of the story, “Madol Doova”, means “island of mangroves” in the Sinhala language.</string>
+
+
+    <string name="village">The Village by the Sea: an Indian family story is a novel for young people by the Indian writer Anita Desai, published in London by Heinemann in 1982. It is based on the poverty, hardships and sorrow faced by a small rural, community in India.</string>
+    <string name="view">view</string>
+    <string name="para">para</string>
+    <string name="about">about</string>
+
+    <string name="PaymentMethod">Payment Method</string>
+    <string name="Membership">Membership</string>
+    <string name="CreditCard">CreditCard</string>
+    <string name="CashOnDelivery">CashOnDelivery</string>
+    <string name="ThankYou">Thank You!</string>
+    <string name="Message">Your order has been completed successfully</string>
+    <string name="button">CONTINUE</string>
+    <string name="verifi">Verification code has been send to the +94 767459508</string>
+    <string name="button2">Enter OderID</string>
+    <string name="button3">Enter MemberID</string>
+    <string name="button4">confirm</string>
+    <string name="PaymentHandling">Payment Handling</string>
+    <string name="EnterID">Enter ID</string>
+    <string name="enterid">EnterID</string>
+    <string name="button5">OK</string>
+    <string name="ID">M0001</string>
+    <string name="no">+94 767459508</string>
+    <string name="e_mail">tharu@gmail.com</string>
+    <string name="button6">Update</string>
+    <string name="button7">Delete</string>
+    <string name="status">Payment Status</string>
+    <string name="mss">Pending</string>
+    <string name="CardDetails">Card Details</string>
+    <string name="CardNo">CardNo</string>
+    <string name="ExpDate">ExpDate</string>
+    <string name="Code">Code/CCV</string>
+    <string name="Amount">Amount</string>
+    <string name="button8">Pay now</string>
+    <string name="cardno" />
+    <string name="cdno">CardNo</string>
+    <string name="expdate">ExpDate</string>
+    <string name="code">Code/CCV</string>
+    <string name="amount">Amount</string>
+
+    <string name="eid">Enter MemberID</string>
+    <string name="Mid">MemberID</string>
+    <string name="button9">Confirm</string>
+    <string name="enterOderID">Enter OderID</string>
+    <string name="oderid">OderID</string>
+    <string name="button10">Confirm</string>
+    <string name="text1">Enter 6 digit code</string>
+    <string name="text3">Code</string>
+    <string name="PaymentDetails">Payment Details</string>
+    <string name="MemberID">MemberID</string>
+    <string name="CONTACTNO">ContactNo</string>
+    <string name="Email">Email</string>
+    <string name="amountt">Amount</string>
+    <string name="memberID">MemberID</string>
+    <string name="contactno">ContactNo</string>
+    <string name="E_mail">Email</string>
+    <string name="Amountt">Amount</string>
+    <string name="Pay">Pay</string>
+    <string name="Midd">Enter MemberID</string>
+    <string name="IDID">EnterID</string>
+    <string name="con1">contactno</string>
+    <string name="ema">Email</string>
+    <string name="amou">Amount</string>
+    <string name="am">Amount</string>
+    <string name="textView2">Amount</string>
+    <string name="feedback">Feedback</string>
+    <string name="feed">feedback</string>
+    <string name="name">Name</string>
+    <string name="textView3">Name</string>
+    <string name="textView4">Feedback</string>
+    <string name="name1">MemberID</string>
+    <string name="name2">Name</string>
+
+    <string name="jane">Author: Charlotte Brontë</string>
+
+    <string name="hathpana">Author: Kumarathunga Munidasa</string>
+
+    <string name="hathpana2">Jane Eyre is a novel written by Charlotte Brontë in 1847. The novel follows the story of Jane, a seemingly plain and simple girl as she battles through life s struggles. Jane has many obstacles in her life her cruel and abusive Aunt Reed, the grim conditions at Lowood school, her love for Rochester and Rochester s marriage to Bertha. However, Jane overcomes these obstacles through her determination, sharp wit and courage.</string>
+
+
+    -
+    <string name="hyperlink"><a href="https://www.planetebook.com/free-ebooks/jane-eyre.pdf">READ NOW</a></string>
+
+
+    <string name="houseofsecrets">Authors: Ned Vizzini, Chris Columbus</string>
+
+    <string name="bondamedum">Author: Sujeewa Prasanna Arachchi</string>
+
+    <string name="buddhist2">Author: Mathugama Mahinda Vijethilaka </string>
+
+    <string name="oliver">Author: Charles Dickens</string>
+
+    <string name="ammaa">Author: Maxim Gorki</string>
+
+    <string name="kudahora">Author: Sibil weththasinha</string>
+
+    <string name="hamilton">Author: Ron Chernow </string>
+    <string name="expdatee">DD/MM/YYYY</string>
+
+</resources>
